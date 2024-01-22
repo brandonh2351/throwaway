@@ -11,3 +11,7 @@ I have learned a lot about Git and Github and the commands that create   everyth
 * history
 * git log
 * pwd
+
+## what is the terminal?
+
+The terminal is a text-based interface to your computer and is a program that runs other text-based programs.
