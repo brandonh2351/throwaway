@@ -15,3 +15,7 @@ I have learned a lot about Git and Github and the commands that create   everyth
 ## what is the terminal?
 
 The terminal is a text-based interface to your computer and is a program that runs other text-based programs.
+
+## what is Git and Github?
+
+Git is a version control system that tracks changes of code and GitHub is a web-based hosting service for git repositories.
